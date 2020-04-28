@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  headache: 1
+  nausea: 1
+  ppain: 1
+
+two:
+  headache: 1
+  nausea: 1
+  ppain: 1
